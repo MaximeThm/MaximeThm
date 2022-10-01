@@ -18,3 +18,16 @@
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/MaximeThm?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
 
+<br/>
+
+### 🧐 More About Me:
+
+- 🔭 &nbsp; I’m currently trying some **trading algorithms** on my free time;
+
+[Section under construction 🛠️]
+
+- 💬 &nbsp; I'll be happy to chat about tech, finance, sustainability, etc.;
+- 📫 &nbsp; Feel free to add me on [LinkedIn](https://www.linkedin.com/in/thomas-maxime/)
+- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1UU4bi-34qCpuZr_3KUhi7MvxKrd2xNOh/view?usp=sharing)
+
+<br>
