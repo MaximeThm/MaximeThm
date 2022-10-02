@@ -24,11 +24,9 @@
 
 - 🔭 &nbsp; I’m currently trying some **trading algorithms** on my free time;
 
-[Section under construction 🛠️]
-
 - 💬 &nbsp; I'll be happy to chat about tech, finance, sustainability, etc.
 - 📫 &nbsp; Feel free to add me on [LinkedIn](https://www.linkedin.com/in/thomas-maxime/)...
-- 📸 &nbsp; Or to follow me on [Instagram](https://www.instagram.com/max7th/)!
+- 📸 &nbsp; Or follow me on [Instagram](https://www.instagram.com/max7th/)!
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1UU4bi-34qCpuZr_3KUhi7MvxKrd2xNOh/view?usp=sharing)
 
 <br>
