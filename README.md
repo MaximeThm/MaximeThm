@@ -20,10 +20,6 @@
 
 <br/>
 
-### 🧐 More About Me:
-
-- 🔭 &nbsp; I’m currently trying some **trading algorithms** on my free time;
-
 - 💬 &nbsp; I'll be happy to chat about tech, finance, sustainability, etc.
 - 📫 &nbsp; Feel free to add me on [LinkedIn](https://www.linkedin.com/in/thomas-maxime/)...
 - 📸 &nbsp; Or follow me on [Instagram](https://www.instagram.com/max7th/)!
