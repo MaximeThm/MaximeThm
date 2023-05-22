@@ -22,7 +22,6 @@
 
 - 💬 &nbsp; I'll be happy to chat about tech, finance, sustainability, etc.
 - 📫 &nbsp; Feel free to add me on [LinkedIn](https://www.linkedin.com/in/thomas-maxime/)...
-- 📸 &nbsp; Or follow me on [Instagram](https://www.instagram.com/max7th/)!
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1nTC1YGkWceG_8raX0xMRNqlZJ-swpdBW/view?usp=sharing).
 
 <br>
