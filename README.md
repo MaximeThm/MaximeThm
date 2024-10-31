@@ -5,7 +5,7 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Working+as+a+finance+consultant...;but+having+fun+coding!;Nice+to+meet+you+%3A)" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Working+as+a+finance+consultant...;and+having+fun+coding!;Nice+to+meet+you+%3A)" alt="Typing SVG" /></a>
 </p>
 
 <!-- Social badges section -->
